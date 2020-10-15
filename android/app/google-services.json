@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "360123571693",
+    "firebase_url": "https://flutterproject-siddharth.firebaseio.com",
+    "project_id": "flutterproject-siddharth",
+    "storage_bucket": "flutterproject-siddharth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360123571693:android:5111181a5d326c00d89be4",
+        "android_client_info": {
+          "package_name": "com.sidk17.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360123571693-8oer8uog5cqqqdvgoj7hrje40o53n6uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rThsaGYDUQHWtpgh3UvpsyTRxQtEGm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360123571693-8oer8uog5cqqqdvgoj7hrje40o53n6uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
